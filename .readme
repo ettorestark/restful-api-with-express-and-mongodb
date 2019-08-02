@@ -1,0 +1,16 @@
+# RESTful API using Express.js and MongoDB
+
+## Instalation
+
+```
+npm install
+```
+
+```
+npm start
+```
+
+## Screenshots
+
+
+![](http://github.com/ettorestark/resful-api-with-express-and-mongodb/master/assets/get-all.jpg)
