@@ -12,4 +12,4 @@ npm start
 
 ## Screenshots
 
-![](https://github.com/ettorestark/restful-api-with-express-and-mongodb/tree/master/assets/get-all.jpg)
+![Screenshot](http://github.com/ettorestark/restful-api-with-express-and-mongodb/tree/master/assets/get-all.jpg)
